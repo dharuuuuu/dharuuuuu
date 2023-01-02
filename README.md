@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharuuuuu
 - 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Front-End Web Development Learning Path
+- 🌱 I’m currently learning Front-End & Back-End Web Development Learning Path
 - 💞️ I’m looking to collaborate on Movie Catalogue project
 - 📫 How to reach me on
 <a href="https://www.instagram.com/dharu_ddr/" target="_blank">Instagram</a>, and
